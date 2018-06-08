@@ -1,0 +1,11 @@
+target
+target/*
+*/target
+*/target/*
+.project
+.settings
+.classpath
+.idea
+.idea/*
+.idea/SpicyChicken.iml
+*/*.iml
